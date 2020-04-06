@@ -53,7 +53,7 @@ class Song
     song.arist_name = artist_name
     song
   end
-    
+
   end
 
   def save
