@@ -52,8 +52,6 @@ class Song
     song
   end
 
-  end
-
   def save
     self.class.all << self
   end
