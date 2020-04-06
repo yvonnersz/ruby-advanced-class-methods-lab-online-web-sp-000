@@ -56,7 +56,6 @@ class Song
     song = self.new_from_filename(song_with_format)
     song.save
     song
-
   end
 
   def save
